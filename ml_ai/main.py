@@ -6,7 +6,6 @@
 # print('Hello, Machine Learning!')
 # import os
 # os.environ["OPENAI_API_KEY"] = ""
-# #API KEY openai =""
 # 
 # deepseek - ""
 # os.environ["OPENROUTER_API_KEY"] = ""
