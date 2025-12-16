@@ -68,7 +68,7 @@ Otherwise answer normally.
 # -------------------------------------
 
 if __name__ == "__main__":
-    agent = WebAgent(model="llama3")   # <--- change to qwen, mistral, etc.
+    agent = WebAgent(model="llama3")   # <--- change to qwen, mistral, etc. agent = WebAgent(model="mistral") "qwen2" "phi3" "llama3.1"
 
     out = agent.ask("Open https://example.com and summarize it.")
     print(out)
