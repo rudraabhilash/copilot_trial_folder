@@ -1,0 +1,9 @@
+# Common ML/AI and web development packages
+numpy
+pandas
+scikit-learn
+matplotlib
+flask
+fastapi
+uvicorn
+jupyter

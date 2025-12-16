@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run ML/AI Script",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
+            "args": ["ml_ai/main.py"],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Web App",
+            "type": "shell",
+            "command": "${workspaceFolder}/.venv/Scripts/python.exe",
+            "args": ["web_app/app.py"],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
