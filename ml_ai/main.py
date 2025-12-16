@@ -5,13 +5,13 @@
 
 # print('Hello, Machine Learning!')
 # import os
-# os.environ["OPENAI_API_KEY"] = "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"
-# #API KEY openai ="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"
-# "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"
-# deepseek - sk-37e7947a7ce24108a32544627189fae8
-# os.environ["OPENROUTER_API_KEY"] = "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"
-# $env:OPENROUTER_API_KEY="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"
-#$env:GEMINI_API_KEY="AIzaSyAHVn38axA72PBxTSqT2klHPhFCl_Z6mpE"
+# os.environ["OPENAI_API_KEY"] = ""
+# #API KEY openai =""
+# 
+# deepseek - ""
+# os.environ["OPENROUTER_API_KEY"] = ""
+# $env:OPENROUTER_API_KEY=""
+#$env:GEMINI_API_KEY=""
 # from google.genai.agents import LlmAgent
 # from google.genai.tools import google_search
 # from google.genai import web
