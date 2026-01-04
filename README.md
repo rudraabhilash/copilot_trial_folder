@@ -14,8 +14,13 @@ This workspace is set up for machine learning, AI, and web development using Pyt
 4. Run web app: `python web_app/app.py`
 
 #cd into ml_ai folder for sure else you will be in trouble!
+
 #uvicorn agents.host_agent.__main__:app --port 8000 & 
+
 #uvicorn agents.flight_agent.__main__:app --port 8001 & 
+
 #uvicorn agents.stay_agent.__main__:app --port 8002 & 
+
 #uvicorn agents.activities_agent.__main__:app --port 8003 & 
+
 #streamlit run streamlit_app.py
