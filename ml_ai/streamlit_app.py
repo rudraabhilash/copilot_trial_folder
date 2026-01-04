@@ -34,7 +34,7 @@ if st.button("Plan My Trip ✨"):
 # This code is a Streamlit app that allows users to plan a trip by entering their travel details.
 
 
-
+#cd into ml_ai folder for sure else you will be in trouble!
 #uvicorn agents.host_agent.__main__:app --port 8000 & 
 #uvicorn agents.flight_agent.__main__:app --port 8001 & 
 #uvicorn agents.stay_agent.__main__:app --port 8002 & 
