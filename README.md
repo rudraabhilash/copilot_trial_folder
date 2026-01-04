@@ -13,3 +13,4 @@ This workspace is set up for machine learning, AI, and web development using Pyt
 3. Run ML/AI code: `python ml_ai/main.py`
 4. Run web app: `python web_app/app.py`
 
+cd into ml_ai folder for sure else you will be in trouble!
